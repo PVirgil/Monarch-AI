@@ -6,7 +6,7 @@
 
 ## 🚀 Live App
 
-👉 [Launch Monarch AI](https://your-streamlit-app-url)
+👉 [Launch Monarch AI](https://monarch-ai.streamlit.app)
 
 ---
 
